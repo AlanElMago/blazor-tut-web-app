@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\josea\\Git_Repos\\blazor-tut-web-app\\blazor-tut-web-app.csproj",
+      "projectUniqueName": "D:\\Users\\josea\\Git Repositories\\blazor-tut-web-app\\blazor-tut-web-app.csproj",
       "projectName": "blazor-tut-web-app",
-      "projectPath": "D:\\Users\\josea\\Git_Repos\\blazor-tut-web-app\\blazor-tut-web-app.csproj",
+      "projectPath": "D:\\Users\\josea\\Git Repositories\\blazor-tut-web-app\\blazor-tut-web-app.csproj",
       "packagesPath": "C:\\Users\\josea\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\josea\\Git_Repos\\blazor-tut-web-app\\obj\\",
+      "outputPath": "D:\\Users\\josea\\Git Repositories\\blazor-tut-web-app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
